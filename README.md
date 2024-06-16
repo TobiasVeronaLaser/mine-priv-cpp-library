@@ -1,0 +1,1 @@
+# mine-priv-cpp-library
